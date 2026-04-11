@@ -28,6 +28,7 @@
 // @match        *://nvme.site/*
 // @match        *://poteto.befacivm.us.to/*
 // @match        *://winadamvm.qzz.io/*
+// @match        *://sevm.pl/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=computernewb.com
 // @grant        none
 // ==/UserScript==
